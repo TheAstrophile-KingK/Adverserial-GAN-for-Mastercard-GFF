@@ -1,0 +1,17 @@
+{
+    "timestamp": "2026-08-28T10:44:21.243302",
+    "requested_valid_samples": 5000,
+    "total_ctgan_candidates_generated": 5000,
+    "valid_samples_tested": 5000,
+    "blue_team_threshold": 0.5,
+    "detected_samples": 4862,
+    "evaded_samples": 138,
+    "detection_rate": 0.9724,
+    "evasion_rate": 0.0276,
+    "fraud_probability": {
+        "minimum": 0.00031429174123331904,
+        "maximum": 1.0,
+        "mean": 0.968568742275238,
+        "median": 1.0
+    }
+}
